@@ -1,5 +1,4 @@
 # Rotation Invariant Deep Learning Approach for Image Inpainting: A Tensorflow Implementation
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 This is a Tensorflow implementation of the proposed work in ["Rotation Invariant Deep Learning Approach for Image Inpainting"](https://ieeexplore.ieee.org/abstract/document/9592023) (Sebastián Rivera, Iván Ortíz, Tatiana Gelvez, Fernando Rojas, Henry Arguello, IEEE, 2021).
 ![diagrama](https://github.com/SebastianSRL/Rotation-Invariant-Image-Inpainting/assets/66753336/26fb2f6f-d465-4beb-8148-62e8054fb842)
 ## Installation
@@ -21,7 +20,6 @@ conda install numpy
 ```
 to install the libraries
 
-
 ## Cite
 
 ```
@@ -35,3 +33,5 @@ to install the libraries
   pages={1-5},
   doi={10.1109/STSIVA53688.2021.9592023}}
 ```
+## License 
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
